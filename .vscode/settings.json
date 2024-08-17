@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.port": 5501,
+  "git.autoRepositoryDetection": true,
+  "git.decorations.enabled": false,
+  "liveServer.settings.CustomBrowser": "chrome"
+}
